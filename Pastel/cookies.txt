@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/admin	FALSE	1999999999	_secure_admin_session_id	7063b13288b85a5b1e71c42a688203c9
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/admin	FALSE	1999999999	_secure_admin_session_id_csrf	7063b13288b85a5b1e71c42a688203c9
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/admin	FALSE	1999999999	_master_udr	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxsTXpBNE9URm1ZUzB6TUdFMkxUUmpaREF0WW1ZNVlTMDVPREV4Wm1aa1l6STJPRGtHT2daRlJnPT0iLCJleHAiOiIyMDI2LTAzLTI1VDA0OjU3OjI5LjA3MVoiLCJwdXIiOiJjb29raWUuX21hc3Rlcl91ZHIifX0%3D--3a0797bbd617ad477930d41b98a5fe4382f44b7a
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/admin	FALSE	1999999999	shopify_web_return_to	%2Fadmin
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22region%22%3A%22PH00%22%2C%22reg%22%3A%22%22%2C%22v%22%3A%222.1%22%7D
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	_orig_referrer	http%3A%2F%2Fautumnaesthetics-pastelgrid.myshopify.com%2F
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpassword
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	add33841-b655-4302-971b-769f29528950
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	8b7400fa-0f55-40c8-822d-ee32db47ce7d
+autumnaesthetics-pastelgrid.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
